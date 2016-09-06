@@ -1,0 +1,6 @@
+TARGETNAME=DriverTest
+TARGETTYPE=DRIVER
+TARGET=obj
+
+INCLUDES=.\
+SOURCES = DriverEntry.c
